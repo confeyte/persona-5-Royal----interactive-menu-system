@@ -13,5 +13,3 @@ A simple interactive console application built with Java, inspired by Persona 5.
 - Working with user input (Scanner)
 - Code organization using methods
 
-##  Status
-gave up
