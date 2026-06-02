@@ -14,4 +14,4 @@ A simple interactive console application built with Java, inspired by Persona 5.
 - Code organization using methods
 
 ##  Status
-🔄 In progress
+gave up
